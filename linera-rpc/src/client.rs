@@ -1,6 +1,8 @@
 // Copyright (c) Zefchain Labs, Inc.
 // SPDX-License-Identifier: Apache-2.0
 
+//linera client
+
 use linera_base::{
     crypto::CryptoHash,
     data_types::BlobContent,
