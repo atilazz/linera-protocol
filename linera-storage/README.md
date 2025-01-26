@@ -1,4 +1,4 @@
-<!-- cargo-rdme start -->
+<!-- cargo-rdme--start -->
 
 This module defines the storage abstractions for individual chains and certificates.
 
