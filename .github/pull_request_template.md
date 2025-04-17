@@ -44,7 +44,6 @@ formats requires a new deployment.
 
 <!--
 Optional section for related PRs, related issues, and other references.
-
 If needed, please create issues to track future improvements and link them here.
 -->
 - [reviewer checklist](https://github.com/linera-io/linera-protocol/blob/main/CONTRIBUTING.md#reviewer-checklist)
